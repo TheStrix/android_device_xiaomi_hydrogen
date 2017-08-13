@@ -10,3 +10,4 @@ ro.hardware.fingerprint=fpc
 
 # Radio
 persist.radio.ignore_dom_time=5
+persist.camera.HAL3.enabled=1
